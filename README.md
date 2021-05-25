@@ -1,1 +1,1 @@
-# learnXmind
+# learnNote.Xmind
